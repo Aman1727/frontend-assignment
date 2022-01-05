@@ -1,0 +1,34 @@
+.back{
+    margin-top: 30px;
+    font-size: 20px;
+    color: #b9b9b9;
+}
+
+
+.details{
+    max-width: 1200px;
+    min-width: 920px;
+    margin: auto;
+    background: white;
+    border: 1px solid #b9b9b9;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 45px;
+}
+
+
+.meta-data {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.id {
+    margin-bottom: 10px;
+}
+.name{
+    margin-bottom: 10px;
+}
+
+.type {
+    margin-bottom: 10px;
+}

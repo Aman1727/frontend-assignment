@@ -1,0 +1,6 @@
+.App {
+    max-width: 1200px;
+    min-width: 920px;
+    margin: auto;
+    overflow: auto;
+}

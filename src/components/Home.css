@@ -1,0 +1,73 @@
+  #standard-select{
+    height: 2.5rem;
+    font-family: 'Lato', sans-serif;;
+    border: 1px solid #b9b9b9;
+    color: #666;
+    font-size: 1.2rem;
+    margin-left: 10px;
+    border-radius: .7rem;
+    width: 15%;
+    padding: 0 1rem;
+  }
+
+  #btn{
+    height: 2.5rem;
+    font-family: 'Lato', sans-serif;;
+    border: 1px solid #b9b9b9;
+    color: #666;
+    font-size: 1.2rem;
+    margin-left: 10px;
+    border-radius: .7rem;
+    width: 10%;
+    cursor: pointer;
+    background: #fff;
+  }
+  
+  input{
+    height: 2.5rem;
+    font-family: 'Lato', sans-serif;;
+    border: 1px solid #b9b9b9;
+    color: #666;
+    font-size: 1.2rem;
+    margin-left: 10px;
+  }
+
+  input[type="text"] {
+    outline: 0;
+    width: 50%;
+    background: #fff;
+    padding: 0 1rem;
+    border-radius: .7rem;;
+    appearance: none;
+    transition: all .3s cubic-bezier(0, 0, 0.43, 1.49);
+    transition-property: width, border-radius;
+    z-index: 1;
+    position: relative;
+  }
+
+  input:not(:placeholder-shown) {
+    border-radius: .7rem .7rem .7rem .7rem;
+    width: 50%;
+  }
+
+  .table{
+    width: 100%;
+  }
+  
+
+  .list{
+    text-align: center;
+  }
+
+  th {
+    padding: 0.4rem;
+    border-right: 1px solid #e1e1e1;
+  }
+
+  td {
+    padding: 0.4rem;
+    border-top: 1px solid #e1e1e1;
+    border-right: 1px solid #e1e1e1;
+    background: #F8F8F8;
+    height: 50px;
+  }
